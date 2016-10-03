@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{52CE9FE7-DE7A-4B54-8190-4C5485562D6C}"
+	ProjectSection(SolutionItems) = preProject
+		J:\Projets\R\Projets\Meetup\0. Commandes.R = J:\Projets\R\Projets\Meetup\0. Commandes.R
+		J:\Projets\R\Projets\Meetup\1.Lists.R = J:\Projets\R\Projets\Meetup\1.Lists.R
+		J:\Projets\R\Projets\Meetup\10.Starbucks.R = J:\Projets\R\Projets\Meetup\10.Starbucks.R
+		J:\Projets\R\Projets\Meetup\2.Manip.R = J:\Projets\R\Projets\Meetup\2.Manip.R
+		J:\Projets\R\Projets\Meetup\3. ggplot2.R = J:\Projets\R\Projets\Meetup\3. ggplot2.R
+		J:\Projets\R\Projets\Meetup\4.Cartographie.R = J:\Projets\R\Projets\Meetup\4.Cartographie.R
+		J:\Projets\R\Projets\Meetup\5.Circular migration.R = J:\Projets\R\Projets\Meetup\5.Circular migration.R
+		J:\Projets\R\Projets\Meetup\6.Currencies.R = J:\Projets\R\Projets\Meetup\6.Currencies.R
+		J:\Projets\R\Projets\Meetup\7.Love.R = J:\Projets\R\Projets\Meetup\7.Love.R
+		J:\Projets\R\Projets\Meetup\8.AirBnB.R = J:\Projets\R\Projets\Meetup\8.AirBnB.R
+		J:\Projets\R\Projets\Meetup\9.FFTrees.R = J:\Projets\R\Projets\Meetup\9.FFTrees.R
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
